@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hovhannes Ghazaryan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on friendly company
 - 📫 How to reach me. telegram: @hovoghazaryan
 
