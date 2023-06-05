@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Hovhannes Ghazaryan
-- 👀 I’m interested in programming
-- 💞️ I’m looking to collaborate on friendly company
+- 👋 Hi, I’m Hovhannes(John) Ghazaryan, 18 years old so far
+- 👀 I’m interested in programming with c#, Java
+- 💞️ I’m looking to collaborate with friendly company
 - 📫 How to reach me. telegram: @FRONTLEADS
 
 <!---
