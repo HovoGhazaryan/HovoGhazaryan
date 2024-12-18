@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Hovhannes(John) Ghazaryan, 18 years old so far
-- 👀 I’m interested in programming with c#, Java
+- 👋 Hi, I’m Hovhannes(John) Ghazaryan(Jazary), 19 years old so far
+- 👀 I’m interested in programming with c#, Java, Web Dev, and more.
 - 💞️ I’m looking to collaborate with friendly company
 - 📫 How to reach me. discord: frontleads
 
